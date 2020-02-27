@@ -1,0 +1,4 @@
+[submodule "src/jslib"]
+    path = src/jslib
+    url = git@github.com:Leaflet/Leaflet.draw.git
+    branch = leaflet-master

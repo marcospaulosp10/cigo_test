@@ -1,0 +1,14 @@
+{
+    "folders":
+    [
+        {
+            "path": "/Users/david/Sites/yii2-starter-kit"
+        },
+        {
+            "path": "/Users/david/Sites/yii2-starter-kit/vendor/2amigos"
+        },
+        {
+            "path": "/Users/david/Sites/yii2-starter-kit/vendor/davidjeddy/yii2-leaflet-draw-plugin"
+        }
+    ]
+}

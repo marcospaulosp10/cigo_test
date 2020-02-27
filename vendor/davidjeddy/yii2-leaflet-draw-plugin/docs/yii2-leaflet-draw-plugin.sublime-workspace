@@ -1,0 +1,1399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mod",
+				"modifiers"
+			],
+			[
+				"cart",
+				"cartItemSoeItemDataProvider"
+			],
+			[
+				"jsone_De",
+				"json_decode"
+			],
+			[
+				"ca",
+				"cartItemKey"
+			],
+			[
+				"array_mr",
+				"array_merge"
+			],
+			[
+				"actionCreat",
+				"actionCreateCartItemSoeItems"
+			],
+			[
+				"so",
+				"soeItemTypes"
+			],
+			[
+				"pa",
+				"paramItem"
+			],
+			[
+				"meth",
+				"methodData"
+			],
+			[
+				"actionCar",
+				"actionCreateNewCart"
+			],
+			[
+				"car",
+				"cartItemData"
+			],
+			[
+				"met",
+				"methodData"
+			],
+			[
+				"para",
+				"paramItem"
+			],
+			[
+				"itemTy",
+				"itemTypeValue"
+			],
+			[
+				"itemTyp",
+				"itemTypeKey"
+			],
+			[
+				"soe",
+				"soeItem"
+			],
+			[
+				"wid",
+				"widget"
+			],
+			[
+				"soeIte",
+				"soeItemMdl"
+			],
+			[
+				"submitted",
+				"submittedSoeItemList"
+			],
+			[
+				"curren",
+				"currentItemSoeItemRelations"
+			],
+			[
+				"it",
+				"itemValue"
+			],
+			[
+				"itemValue",
+				"itemVTypeValue"
+			],
+			[
+				"soeIt",
+				"soeItemMDL"
+			],
+			[
+				"soeT",
+				"soeItemMDL"
+			],
+			[
+				"item",
+				"itemTypes"
+			],
+			[
+				"sele",
+				"selectedSOEItems"
+			],
+			[
+				"get_class",
+				"get_class_vars"
+			],
+			[
+				"parent",
+				"class_parents"
+			],
+			[
+				"IT",
+				"Item"
+			],
+			[
+				"retur",
+				"returnData"
+			],
+			[
+				"ite",
+				"itemSOEs"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"type",
+				"typeValue"
+			],
+			[
+				"typ",
+				"typeValue"
+			],
+			[
+				"me",
+				"methodData"
+			],
+			[
+				"ret",
+				"returnData"
+			],
+			[
+				"isa",
+				"is_array"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"search",
+				"searchMDL"
+			],
+			[
+				"sera",
+				"searchMDL"
+			],
+			[
+				"u",
+				"ucfirst"
+			],
+			[
+				"returnDa",
+				"returnDataItem"
+			],
+			[
+				"toggle",
+				"toggleLayer"
+			],
+			[
+				"param",
+				"paramData"
+			],
+			[
+				"create",
+				"createCoverageLayer"
+			],
+			[
+				"par",
+				"paramData"
+			],
+			[
+				"return",
+				"returndata"
+			],
+			[
+				"isn",
+				"is_numeric"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"marker",
+				"markerItem"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"json_d",
+				"json_encode"
+			],
+			[
+				"page",
+				"pageTitle"
+			],
+			[
+				"for",
+				"forum"
+			],
+			[
+				"mess",
+				"messageMDL"
+			],
+			[
+				"mem",
+				"member_id"
+			],
+			[
+				"min",
+				"min_posts"
+			],
+			[
+				"las",
+				"last_post_id"
+			],
+			[
+				"des",
+				"destImage"
+			],
+			[
+				"Survey",
+				"SurveyController"
+			],
+			[
+				"acc",
+				"accountModel"
+			],
+			[
+				"poll",
+				"pollResponseMDL"
+			],
+			[
+				"pol",
+				"pollsTakenByUser"
+			],
+			[
+				"getA",
+				"getAttributes"
+			],
+			[
+				"cat",
+				"category_id"
+			],
+			[
+				"user",
+				"userMDL"
+			],
+			[
+				"tit",
+				"title_video_url"
+			],
+			[
+				"voi",
+				"voicesPer"
+			],
+			[
+				"before",
+				"beforeAction"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"Journal",
+				"JournalController"
+			],
+			[
+				"passw",
+				"password"
+			],
+			[
+				"password",
+				"password_hash"
+			],
+			[
+				"aja",
+				"ajaxOptions"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"survey",
+				"survey_poll_ids"
+			],
+			[
+				"val",
+				"validSurveys"
+			],
+			[
+				"surve",
+				"survey"
+			],
+			[
+				"unt",
+				"untakenPolls"
+			],
+			[
+				"un",
+				"untakenPolls"
+			],
+			[
+				"surv",
+				"surveyMDL"
+			],
+			[
+				"sur",
+				"surveyMDL"
+			],
+			[
+				"unp",
+				"unpublish"
+			],
+			[
+				"PollRe",
+				"PollResponseQuery"
+			],
+			[
+				"answer",
+				"answerOptions"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"yii2-",
+				"yii2-utility-classes"
+			],
+			[
+				"retu",
+				"returnData"
+			],
+			[
+				"ans",
+				"answerOptions"
+			],
+			[
+				"data",
+				"dataProvider"
+			],
+			[
+				"dyn",
+				"dynamic_attributes"
+			],
+			[
+				"anse",
+				"answer_text"
+			],
+			[
+				"Aa",
+				"AaeAnswer"
+			],
+			[
+				"pio",
+				"pollId"
+			],
+			[
+				"voice",
+				"voicesData"
+			],
+			[
+				"get_cla",
+				"get_class_methods"
+			],
+			[
+				"url",
+				"urlManager"
+			],
+			[
+				"F",
+				"ForumCNTL"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"get_cl",
+				"get_class_methods"
+			],
+			[
+				"get_c",
+				"get_class_methods"
+			],
+			[
+				"geT_cla",
+				"get_class_methods"
+			],
+			[
+				"jsone_",
+				"json_encode"
+			],
+			[
+				"roo",
+				"room_no"
+			],
+			[
+				"room",
+				"room_no"
+			],
+			[
+				"spa_",
+				"spa_service_value"
+			],
+			[
+				"M",
+				"MediaAsset"
+			],
+			[
+				"medi",
+				"media_url"
+			],
+			[
+				"service",
+				"service_name"
+			],
+			[
+				"_m_",
+				"_m_value"
+			],
+			[
+				"guest",
+				"guest_id"
+			],
+			[
+				"gues",
+				"guest_id"
+			],
+			[
+				"gett",
+				"gettype"
+			],
+			[
+				"ser",
+				"service_name"
+			],
+			[
+				"start",
+				"start_time"
+			],
+			[
+				"_r",
+				"_r_key"
+			],
+			[
+				"_gue",
+				"_guest_schedule"
+			],
+			[
+				"_a",
+				"_availability_data"
+			],
+			[
+				"reservation",
+				"reservations"
+			],
+			[
+				"_me",
+				"_method_data_group_key"
+			],
+			[
+				"is_n",
+				"is_numeric"
+			],
+			[
+				"_meth",
+				"_method_data"
+			],
+			[
+				"_im",
+				"_image_key"
+			],
+			[
+				"_image_",
+				"_image_category"
+			],
+			[
+				"_med",
+				"_media_cat_uuid"
+			],
+			[
+				"post",
+				"postNewCategory"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "glue",
+		"selected_items":
+		[
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Word",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"sublim",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"subli",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"subl",
+				"Set Syntax: Sublimerge"
+			],
+			[
+				"xde",
+				"Set Syntax: Xdebug"
+			],
+			[
+				"xdeb",
+				"Xdebug: Clear Watch Expressions"
+			],
+			[
+				"xdebug",
+				"Xdebug: Restore Layout"
+			],
+			[
+				"xdebu",
+				"Xdebug: Breakpoint - Stop"
+			],
+			[
+				"xd",
+				"Preferences: Xdebug Settings – Default"
+			],
+			[
+				"xderb",
+				"Xdebug: Clear All Breakpoints"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"sub",
+				"Sublimerge: Compare Revision to Revision..."
+			],
+			[
+				"j",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"J",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"sublime",
+				"Sublimerge: Compare Revision to Revision..."
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: dbg",
+				"Snippet: Inline PHP debug."
+			],
+			[
+				"Snippet: ",
+				"Snippet: Comment"
+			],
+			[
+				"jsom",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"sftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp:sy",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"sftp: sh",
+				"SFTP: Show Panel"
+			],
+			[
+				"SFTP",
+				"SFTP: Setup Server…"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package c",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 327.0,
+		"history":
+		[
+			"git",
+			"cd /Users/",
+			"cd ~/Sites/",
+			"ls -la",
+			"file_diff_menu:",
+			"file_diff_menu",
+			"/git status",
+			"git status",
+			"/git",
+			"git",
+			"git status",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/david/Sites/yii2-starter-kit/composer.json",
+		"/Users/david/Sites/yii2-starter-kit/composer.lock",
+		"/Users/david/.ssh/st_vagrant_private_key",
+		"/Users/david/Sites/st_vagrant_private_key",
+		"/Users/david/.ssh/id_rsa.pub",
+		"/Users/david/Sites/vagrant_keys/id_rsa.pub",
+		"/Users/david/Sites/webception/README.md",
+		"/Users/david/Sites/info_scripts/image_lib_info.php",
+		"/Users/david/Sites/package-dev.dev/.gitignore",
+		"/Users/david/Sites/leaflet-draw.dev/composer.json",
+		"/Users/david/Sites/humhub.dev/README.md",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/menu/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/location/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/item/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/item-type/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/franchise/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/controllers/CartController.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/views/cart/view.php",
+		"/Users/david/Library/Application Support/Sublime Text 3/Packages/Glue/Glue.sublime-settings",
+		"/Users/david/Sites/moffitt/common/config/base.php",
+		"/Users/david/Sites/teburu4/.env",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/cart-status/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/views/item/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/views/cart/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/components/Teburu4Component.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/controllers/CartPaymentController.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/views/cart-payment/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/views/cart-payment/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/controllers/CartItemController.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/controllers/CartOrderController.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/controllers/DefaultController.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/item-size-price/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/views/item/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/controllers/ItemController.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/cart-order/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/cart/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/Module.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/views/layouts/base.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/composer.json",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/views/menu/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/search/CartItem.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/views/cart/_cartItemSoeItem.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/cart-item/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/views/item/_indexGridView.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/Teburu.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/CartItem.php",
+		"/Users/david/Sites/teburu4/vendor/davidjeddy/yii2-utility-classes/behaviors/SoftDelete.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/controllers/TeburuController.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/Item.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/views/item/_itemGridView.php",
+		"/Users/david/Sites/teburu4/backend/controllers/PageController.php",
+		"/Users/david/Sites/teburu4/backend/modules/i18n/views/i18n-message/index.php",
+		"/Users/david/Sites/teburu4/backend/views/article-category/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/Cart.php",
+		"/Users/david/Sites/teburu4/composer.json",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/cart/_form.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/README.md",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/item/_search.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/cart-item/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/cart-item/_search.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/cart-item/_form.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/SoeItem.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/default/_form_soe_fields.php",
+		"/Users/david/Sites/teburu4/vendor/yiisoft/yii2/helpers/BaseArrayHelper.php",
+		"/Users/david/Sites/teburu4/vendor/yiisoft/yii2/helpers/BaseHtml.php",
+		"/Users/david/Sites/teburu4/vendor/yiisoft/yii2/helpers/Html.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/Location.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/controllers/MenuController.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/controllers/LocationController.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/views/location/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/ItemSizePrice.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/cart-order/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/cart-payment/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/cart/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/city/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/city/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/country/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/country/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/franchise/create.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/franchise/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/franchise/update.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/item-size-price/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/item-type/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/item/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/location/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/menu/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/size/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/size/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/tax-rate/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/views/tax-rate/view.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/views/default/index.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/Module.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/views/default/_header.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/CartOrder.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/CartPayment.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/CartStatus.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/City.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/Country.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/Franchise.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/ItemType.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/Menu.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/ProcessorOption.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/Size.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/TaxRate.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/Timezone.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/controllers/CartItemController.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/backend/Module.php",
+		"/Users/david/Sites/teburu4/frontend/config/web.php",
+		"/Users/david/Sites/teburu4/frontend/modules/user/views/sign-in/login.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/docs/sql/mysql_install_structure.sql",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/config/web.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/search/Cart.php",
+		"/Users/david/Sites/teburu4/backend/config/web.php",
+		"/Users/david/Sites/teburu4/common/config/web.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/controllers/TeburuController.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/views/default/_form_crud_buttons.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/views/default/_form_crud_time_fields.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/views/default/_form_soe_fields.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/views/default/_form_thumbnail_field.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/views/default/_header.php",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/docs/local_store/20150818_140330.jpg",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/docs/local_store/20150818_144508.jpg",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/docs/local_store/20150819_111831.jpg",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/docs/media/blank_placeholder.png",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/docs/media/franchise_placeholder.png",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/docs/media/item_placeholder.png",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/docs/media/location_placeholder.png",
+		"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/docs/media/menu_item_placeholder.png"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/,/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendors/sourcetoad/teburu4-component/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendors/sourcetoad/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/models/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/common/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourceroad/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/'",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/moffitt/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/frontend/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/frontend/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/tebur4-component/frontend/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/frontend",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/,/Users/david/Sites/teburu4/vendor/teburu4/",
+			"-*.data, -*.map, -*.log, -*.md, -*.js, -*/vendor/,/Users/david/Sites/teburu4/frontend",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/,/Users/david/Sites/teburu4/frontend",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/frontend/config",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-component/",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/moffitt/",
+			"-*.map, -*.log, -*.md, -*.js, /Users/david/Sites/teburu4/vendor/sourcetoad/",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/backend/views/",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/backendviews/",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/views/",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourceroad",
+			"-*.map, -*.log, -*.md, -*.js, -*/vendor/, /Users/david/Sites/",
+			"-*.md, -*.js, -*/vendor/, /Users/david/Sites/",
+			"-*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/vendor/sourcetoad/",
+			"-*.md, -*.js, -*/vendor/, /Users/david/Sites/teburu4/",
+			"-*.md, -*.js, -*/vendor/, /Users/david/Sites/",
+			"-*.js, -*/vendor/, /Users/david/Sites/",
+			"-*/vendor/, /Users/david/Sites/",
+			"/Users/david/Sites/teburu4/vendor/sourcetoad/",
+			"-*/*.data, /Users/david/Sites/moffitt/",
+			"-*/*.data, /Users/david/Sites/teburu4/vendor/sourcetoad/",
+			"-*/*.data, /Users/david/Sites/teburu4/",
+			"-*/*.data, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/",
+			"-*/*.data, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/views/item/",
+			"-*/*.data, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/",
+			"-*/*.data, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/views/",
+			"-*/*.data, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/",
+			"-*/*.data, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/models",
+			"-*/*.data, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/",
+			"-*/*.data, /Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/views",
+			"-*/*.data, /Users/david/Sites/teburu4/vendor/sourcetoad/",
+			"-*/*.data, /Users/david/Sites/teburu4/backend/",
+			"/Users/david/Sites/teburu4/backend/",
+			"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/views",
+			"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/models",
+			"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/views/",
+			"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/models/",
+			"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend/views/",
+			"/Users/david/Sites/teburu4/vendor/sourcetoad/teburu4-module/backend",
+			"/Users/david/Sites/teburu4/vendor/sourcetoad/backend/",
+			"/Users/david/Sites/moffitt/frontend/modules/bbii",
+			"-*/vendor, /Users/david/Sites/moffitt/frontend/modules/bbii/",
+			"-*/vendor, /Users/david/Sites/moffitt/frontend/bbii/",
+			"-*/vendor, /Users/david/Sites/bt-location",
+			"/Users/david/Sites/bt-location",
+			"/Users/david/Sites/teburu4/vendor/sourcetoad/",
+			"/Users/david/Sites/teburu4",
+			"~/Users/david/teburu4/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, /Users/david/teburu4/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, /Users/david/bt-location/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, /Users/david/moffitt/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, /Users/david/Sites/bt-location/vendor/sourcetoad/bt-location-module",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,/Users/david/Sites/bt-location/vendor/sourcetoad/bt-location-module",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, /Users/david/Sites/bt-location/vendor/sourcetoad",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>, /Users/david/Sites/bt-location/vendor/sourcetoad",
+			"",
+			"-*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>, /Users/david/Sites/bt-location/vendor/sourcetoad",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>, /Users/david/Sites/bt-location/vendor/sourcetoad",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>, /Users/david/Sites/bt-location/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>, /Users/david/Sites/bt-location/vendor/sourcetoad",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>, /Users/david/Sites/bt-location/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>, /Users/david/Sites/bt-location",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>, /Users/david/Sites/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>, /Users/david/Sites/bt-location/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>,/Users/david/Sites/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>,/Users/david/Sites/bt-location/vendor/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>,/Users/david/Sites/bt-location/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>,/Users/david/Sites/testing.dev/vendor/sourcetoad/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>,/Users/david/Sites/testing.dev/frontend",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,<open folders>,/Users/david/Sites/moffitt/frontend",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,/Users/david/Sites/moffitt/frontend/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,/Users/david/Sites/moffitt/frontend/modules/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,/Users/david/Sites/testing.dev/vendor/sourcetoad/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,/Users/david/Sites/testing.dev",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*,/Users/david/Sites/testing.dev/vendor/sourcetoad/yii2-bbii2",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/vendor/sourcetoad/yii2-bbii2/",
+			"-*/vendor/*, -*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/vendor/sourcetoad/yii2-bbii2/",
+			"-*/vendor/*, -*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/frontend/modules/bbii/",
+			"-*/vendor/*, -*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/",
+			"-*/vendor/*, -*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/frontend/modules/aae/",
+			"-*/vendor/*, -*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/frontend/",
+			"-*/vendor/*, -*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/frontend/modules/bbii/",
+			"-*/vendor/*, -*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/frontend/modules/bbii/controllers/",
+			"-*/vendor/*, -*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/frontend/modules/bbii/models/",
+			"-*/vendor/*, -*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/frontend/modules/bbii",
+			"-*/vendor/*, -*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/frontend/",
+			"-*/vendor/*, -*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/frontend/modules/bbii/",
+			"-*/vendor/*, -*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/modules/bbii/",
+			"-*/vendor/*, -*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/",
+			"-*.js*, -*.sql*, -*.css, -*.md*, -*/debug/*, -*/assets/*, ~/Sites/moffitt/frontend/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"['class' => 'col-sm-6 img-responsive']",
+			"['width'=>'250','height'=>'250']",
+			"thumbnail_path",
+			"log",
+			"GridView",
+			"asdf",
+			"getCart",
+			"'session_id' =>",
+			"component",
+			"'session_id' =>",
+			"turn Yii::$app->getResponse()->redire",
+			"common.teburu4",
+			"component",
+			"    <?php echo DetailView::widget([",
+			"session_id",
+			"Cart",
+			"DetailView",
+			"Order",
+			"common.teburu4.companyName",
+			"col-sm-6",
+			"Save",
+			"SAve",
+			"Submit",
+			"button",
+			"Cart",
+			"'format'    => ['image', ['width'=>'250','height'=>'250']],",
+			"['width'=>'250','height'=>'250']",
+			"'format'    => ['image', ['width'=>'250','height'=>'250']],",
+			"'250'",
+			"col-sm-",
+			"col",
+			"sm-col",
+			"itemDataProvider",
+			"thumbnail",
+			"summary",
+			"itemDataProvider",
+			"var_dump",
+			"asdf",
+			"name",
+			"currency",
+			"allModels",
+			"    <?php echo $this->render('./_indexGridView', ['dataProvider' => $itemDataProvider]); ?>",
+			"cartItemDataProvider",
+			"alt=\"'.strip_tags($model->name).' Image",
+			"findModel",
+			"attribute",
+			"';\n",
+			"session_id",
+			"->leftJoin(",
+			"soe_item",
+			"t4_soe_item",
+			"leftJoin",
+			"->leftJoin(",
+			"-leftJoin(",
+			"model",
+			"->leftJoin(",
+			"Join('",
+			"is->render('",
+			"<?php echo $this->render('../item/_itemGridView'); ?>",
+			"actionCreateCartItemSoeItems",
+			"foreach (\\Yii::$app->request->post('SoeItem') as $k => $v) {",
+			"GridView::widget([",
+			"serialize",
+			"user_id",
+			"component",
+			"user_id",
+			"cart/view",
+			"'name'          => ( (\\Yii::$app->user->identity->getAttribute('username') ?: 'anonymou' ).'-'.time('U') ) ,",
+			"Sourcetoad",
+			"parent",
+			"parent_item_id",
+			"parent_",
+			"parent_item_id",
+			"cart-",
+			"parent_item_id",
+			"parent",
+			"cart_parent_id",
+			"parent_item_id",
+			"actionCreateCartItemSoeItems",
+			"SoeItem",
+			"item_type_id",
+			"getSoeItems",
+			"->getSoeItems",
+			"getSoeItems",
+			"function getValue",
+			"getValue",
+			"function map",
+			"soeDataArray",
+			"getSoeItems",
+			"soeDataArray",
+			"soeItemTypes",
+			"$this->soeItemTypes",
+			"NOT IN",
+			"))*/\n",
+			"getSoeItems",
+			"soeDataArray",
+			"array(",
+			"	",
+			"404",
+			"homeUrl",
+			"getItemSizePrice",
+			"actionGetCartId",
+			"getItemSizePrice",
+			"request",
+			"getSoeItems",
+			"ignore",
+			"ignoreList",
+			"queryParam",
+			"actionGetCartId",
+			"menu_id",
+			"location_id=",
+			"page does not exist.",
+			"actionAltCreate",
+			"actionGetCartId",
+			"NOT",
+			"N O T",
+			"<PRE>",
+			"getCartId",
+			"getSizePrices",
+			"sizePriceDataArray",
+			"'<PRE>'",
+			"recursivelyRemoveEmptyArrayEnteries",
+			"comp",
+			"<?php echo $this->render('../default/_header'); ?>",
+			"removeZeroValues",
+			"<?php echo $this->render('../default/_header'); ?>",
+			"homeUrl",
+			"\n            // created_at\n            [['created_at'], 'required'],"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"['class' => 'col-sm-12 img-responsive']",
+			"['class' => 'col-sm-6 img-responsive']",
+			"CartPayment",
+			"Payment",
+			"col-sm-12",
+			"CartOrder",
+			"'format'    => ['image', ['class' => 'col-sm-6 img-responsive']],",
+			"alt=\"'.strip_tags(($model->name ?: null)).' Image",
+			"cart_item",
+			"t4_cart_item",
+			"$soeItemTypes",
+			"[",
+			"    ",
+			"<?php echo $this->render('../../../common/views/default/_header'); ?>",
+			"",
+			"['CartItem']",
+			"'CartItem[",
+			"\\Yii::$app->keyStorage->get('common.teburu4.currency')",
+			"CartItem",
+			"'",
+			"Cart",
+			"    ",
+			" \\Yii::$app->keyStorage->",
+			"Yii::$app->keyStorage->get('common.teburu4.dateTimeFormat')",
+			"modifier",
+			"SoeItem",
+			"    ",
+			"[",
+			"    ",
+			"",
+			"TaxRate",
+			"Menu",
+			"Location",
+			"ItemType",
+			"ItemSizePrice",
+			"ItemSize",
+			"Country",
+			"TaxRate",
+			"Country",
+			"Item",
+			"$this->params['breadcrumbs'][] = ['label' => strip_tags($model->name), 'url' =>",
+			"]) . ' ' . strip_tags($model->name);",
+			"    ",
+			"    )",
+			"`name` VARCHAR(64)",
+			"            [\n                'attribute' => 'name',\n                'value'     => function ($model) {\n                    return strip_tags($model->name);\n                },\n            ],\n            [\n                'attribute' => 'desc',\n                'value'     => function ($model) {\n                    return strip_tags($model->desc);\n                },\n            ],",
+			"\\Yii",
+			"name_accented",
+			"$this->title = strip_tags($model->name);",
+			"            [\n                'attribute' => 'created_at',\n                'label'     => 'Created',\n                'value'     => function ($model) {\n                    if ($model->created_at) {\n                        return Yii::$app->formatter->asDate($model->created_at, $this->context->module->dateTimeFormat);\n                    } \n                    return null;\n                },\n            ],",
+			"            [\n                'attribute' => 'updated_at',\n                'label'     => 'Updated',\n                'value'     => function ($model) {\n                    if ($model->updated_at) {\n                        return Yii::$app->formatter->asDate($model->updated_at, $this->context->module->dateTimeFormat);\n                    } \n                    return null;\n                },\n            ],",
+			" ::$app->formatter->asDate($model->updated_at, $this->co",
+			" 'attribute' => 'updated_at',",
+			" extends \\teburu4\\backend\\mod",
+			"",
+			" extends \\teburu4\\backend\\models\\Teburu",
+			"            [\n                'attribute' => 'deleted_at',\n                'value' => Yii::$app->formatter->asDate($model->deleted_at, $this->context->module->dateTimeFormat)\n            ],",
+			"            [\n                'attribute' => 'updated',\n                'value' => Yii::$app->formatter->asDate($model->updated, $this->context->module->dateTimeFormat)\n            ],",
+			"            [\n                'attribute' => 'created_at',\n                'value' => Yii::$app->formatter->asDate($model->created_at, $this->context->module->dateTimeFormat)\n            ],",
+			"<?php // echo $form->field($model, 'deleted_at')->textInput() ?>",
+			"base_price",
+			"ItemSizePrice",
+			"ItemSize",
+			"ItemPrice",
+			"ItemType",
+			"Menu",
+			"Location",
+			"$this->modelName",
+			"",
+			"kvDataStore['btlocation.app.storageSubDomain'].value",
+			"kvDataStore['btlocation.app.backendSubDomain'].value",
+			"kvDataStore['btlocation.app.frontendSubDomain'].value",
+			"//console.lo",
+			"//console",
+			"app.domain",
+			"//console",
+			"kvDataStore",
+			"//console.log",
+			"",
+			"//console.log",
+			"//console.log(",
+			"console.log(",
+			"//console.log(",
+			"//console",
+			"//console.log",
+			"L.",
+			"bindPopup",
+			"appData['",
+			"addTo",
+			"']",
+			"jqXHRdata['",
+			"'",
+			"forum",
+			"addFlash",
+			"$booleanDDLOptions",
+			"    ",
+			"// array('label' => Yii::t('BbiiModule.bbii', 'Send mail'), 						'url' => array('moderator/sendmail'), 	'visible' => $this->context->isModerator()),",
+			"pageSize",
+			"'pageSize' => Yii::$app->controller->module->pageSize",
+			"class=\"presence\"",
+			"\\Yii",
+			"[/img][/center]",
+			"[center][img]",
+			"// 'id',",
+			"// 'deleted_at',",
+			"'updated_at:datetime',",
+			"'created_at:datetime',",
+			"Add",
+			"    ",
+			"aaeMDL",
+			" Kari Trace:",
+			"",
+			"Aae",
+			"AaeCategory",
+			"AaeCateogyr",
+			"ourcetoadtest.com/api/",
+			"http://",
+			"b768786c-2a39-40fe-9d3d-866a9db014a6",
+			"http://moffittfrontend.sourcetoadtest.com/",
+			"Poll",
+			"Aae",
+			"Contact",
+			"frontend",
+			"Survey",
+			"ted_at'",
+			"'index",
+			"ted_at'",
+			"index"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 124.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 221.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "yii2-leaflet-draw-plugin.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"j",
+				"frontend/www/assets/15717982/jquery.js"
+			],
+			[
+				"",
+				"admin/sql/install.mysql.utf8.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
