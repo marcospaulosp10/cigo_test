@@ -74,7 +74,7 @@ use app\assets\Utils;
                     <?=$form->field($model, 'city'); ?>
                 </div>
                 <div class="form-group col-md-6">
-                    <?=$form->field($model, 'state'); ?>
+                    <?=$form->field($model, 'state')->textInput(['maxlength' => '2']);; ?>
                 </div>
             </div>
             <div class="form-row">
