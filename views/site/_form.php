@@ -124,7 +124,7 @@ use app\assets\Utils;
                         $utils = new Utils();
                         ?>
                         <div class="btn-group">
-                        <button type="button" class="btn btn-<?=$utils->changeButtonColor($service['status']);?> dropdown-toggle " style="width: 80px" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <button type="button" class="btn btn-<?=$utils->changeButtonColor($service['status']);?> dropdown-toggle " style="width: 93px" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <?=$utils->changeButton($service['status'])?> <span class="caret"></span>
                         </button>
                             <ul class="dropdown-menu">
