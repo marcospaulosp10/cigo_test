@@ -35,7 +35,7 @@ CREATE TABLE `services` (
   `email` varchar(50) NOT NULL,
   `phone_number` varchar(11) NOT NULL,
   `order_type` enum('d','s','i','') NOT NULL,
-  `order_value` double NOT NULL,
+  `order_value` decimal NOT NULL,
   `scheduled_date` date NOT NULL,
   `street_address` varchar(200) NOT NULL,
   `city` varchar(50) NOT NULL,
