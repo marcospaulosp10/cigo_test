@@ -67,8 +67,9 @@ class ServicesModel extends \yii\db\ActiveRecord
             [['email', 'city'], 'string', 'max' => 50],
             [['phone_number'], 'string', 'max' => 11],
             [['street_address'], 'string', 'max' => 200],
-            [['state', 'lat', 'lng'], 'string', 'max' => 20],
+            [['lat', 'lng'], 'string', 'max' => 20],
             [['zip'], 'string', 'max' => 10],
+            ['state', 'string', 'max' => 2],
             [['country'], 'string', 'max' => 3],
         ];
     }
